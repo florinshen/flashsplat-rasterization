@@ -5,6 +5,15 @@
 
 Used as the rasterization engine for the paper "FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally". 
 
+
+
+### Acknowledgement
+
+This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
+- [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization)
+- [diff-gaussian-rasterization-kiui](https://github.com/ashawkey/diff-gaussian-rasterization.git)
+
+
 If you can make use of it in your own research, please be so kind to cite us.
 
 <section class="section" id="BibTeX">
@@ -20,8 +29,3 @@ If you can make use of it in your own research, please be so kind to cite us.
 </section>
 
 
-### Acknowledgement
-
-This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
-- [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization)
-- [diff-gaussian-rasterization-kiui](https://github.com/ashawkey/diff-gaussian-rasterization)
